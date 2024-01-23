@@ -1,7 +1,5 @@
 const logging = () =>{
-    return ("This is log" + " some new updates");
+    return ("This is log");
 }
 
-console.log(logging())
-
-
+console.log(logging());
